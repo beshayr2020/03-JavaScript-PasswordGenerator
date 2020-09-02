@@ -7,13 +7,13 @@ It will also feature a clean and polished user interface and responsive UI.
 <b>Screenshots</b>
 
 <i>Start page/landing page: </i>
-<img src="assets/images/LandingPage.jpg" alt="Landing Page">
+<img src="Assets/images/LandingPage.jpg" alt="Landing Page">
 
 <i>password Page: </i>
-<img src="assets/images/passwordPage.jpg" alt="password Page">
+<img src="Assets/images/passwordPage.jpg" alt="password Page">
 
 <i>Generated Password: </i>
-<img src="assets/images/GeneratedPassword.jpg" alt="Generated Password">
+<img src="Assets/images/GeneratedPassword.jpg" alt="Generated Password">
 
 
 <i> 
